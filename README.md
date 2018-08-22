@@ -15,6 +15,4 @@ The service worker is implemented only in the production build, so the applicati
 6. navigate to http://localhost:5000/
 
 ### APIs and Packages
-As part of the project requirements, I used the [Google Maps API](https://cloud.google.com/maps-platform/) 
- [Four Square API] (https://developer.foursquare.com/docs/api/getting-started) 
- * `create-react-app` package
+As part of the project requirements, I used the [Google Maps API](https://cloud.google.com/maps-platform/) and [Four Square API] (https://developer.foursquare.com/docs/api/getting-started) with the * `create-react-app` package
